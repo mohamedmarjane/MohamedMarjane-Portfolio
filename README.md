@@ -37,7 +37,7 @@ Here are some of my favorite repositories:
 ---
 
 ## 📢 **Connect with Me**
-- [LinkedIn](www.linkedin.com/in/mohamedmarjane)    
+- [LinkedIn](linkedin.com/in/mohamedmarjane)  
 - [Twitter](https://twitter.com/MMarjane1)
 
 ---
